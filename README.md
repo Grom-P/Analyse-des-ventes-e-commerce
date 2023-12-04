@@ -1,4 +1,5 @@
 # Analyse-des-ventes-pour-un-e-commerce
+<img width="675" alt="16058015032257_image11" src="https://github.com/Grom-P/Analyse-des-ventes-e-commerce/assets/117200565/47b338a9-0c64-49a8-87e2-ebc1e4a4b21e">
 
 1. Interpréter les informations provenant d'un dashboard
 
